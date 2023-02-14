@@ -13,4 +13,5 @@ RECEIVE DATA
 
 UML REPRESENTATION
 This is the UML Representation of how the Client requests and receives data to the Server but also how the Server receives it's quotes from ZenQuotes API and returns it back to the client.
+
 <img width="300" alt="Screen Shot 2023-02-13 at 9 41 30 PM" src="https://user-images.githubusercontent.com/102687363/218650062-d25a0b35-4ea3-4157-9040-c82bb8c28630.png">
